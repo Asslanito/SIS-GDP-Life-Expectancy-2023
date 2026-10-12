@@ -1,0 +1,15 @@
+{
+  "api_raw_rows": 532,
+  "api_exact_duplicates": 0,
+  "aggregate_indicator_rows_removed": 98,
+  "wb_country_area_rows": 217,
+  "un_raw_rows": 248,
+  "un_exact_duplicates": 0,
+  "missing_gdp": 13,
+  "missing_life": 0,
+  "invalid_gdp": 0,
+  "invalid_life": 0,
+  "unmatched_region": 2,
+  "excluded_unique_rows": 15,
+  "analysis_rows": 202
+}

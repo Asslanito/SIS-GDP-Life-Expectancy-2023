@@ -1,0 +1,38 @@
+{
+  "year": 2023,
+  "n": 202,
+  "pearson_raw": 0.6201430388406793,
+  "pearson_log": 0.8559724375392516,
+  "spearman": 0.8659595013615259,
+  "sensitivity_n": 191,
+  "sensitivity_r": 0.8437910677708763,
+  "median_gdp": 7862.02708128159,
+  "median_life": 74.4625,
+  "kazakhstan": [
+    {
+      "iso3": "KAZ",
+      "country_wb": "Kazakhstan",
+      "year": 2023,
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "gdp_per_capita_usd": 12879.4275257974,
+      "life_expectancy_years": 74.402,
+      "log10_gdp_per_capita": 4.109896559614429
+    }
+  ],
+  "audit": {
+    "api_raw_rows": 532,
+    "api_exact_duplicates": 0,
+    "aggregate_indicator_rows_removed": 98,
+    "wb_country_area_rows": 217,
+    "un_raw_rows": 248,
+    "un_exact_duplicates": 0,
+    "missing_gdp": 13,
+    "missing_life": 0,
+    "invalid_gdp": 0,
+    "invalid_life": 0,
+    "unmatched_region": 2,
+    "excluded_unique_rows": 15,
+    "analysis_rows": 202
+  }
+}
