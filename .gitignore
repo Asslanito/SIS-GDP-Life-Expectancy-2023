@@ -1,3 +1,10 @@
 .ipynb_checkpoints/
 __pycache__/
 .venv/
+
+# Local study notes and generated outputs; the notebook recreates outputs.
+README.md
+DEFENSE_RU.md
+TOPIC_INFORMATION.md
+data/processed/
+figures/
